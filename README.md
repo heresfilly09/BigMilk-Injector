@@ -35,3 +35,8 @@ A sample payload is included to verify execution. Compile the payload with MSVC,
 ```powershell
 cl.exe /LD /MT test_payload.cpp /link /OUT:test_payload.dll User32.lib
 ```
+
+## Links & Community
+
+- **Website**: [bigmilk.co](https://bigmilk.co)
+- **Discord**: [Join the Big Milk Server](https://discord.gg/syPe6chSAR)
